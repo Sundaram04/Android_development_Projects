@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="first_Quadrant">#FFEADDFF</color>
+    <color name="second_Quadrant">#FFD0BCFF</color>
+    <color name="third_Quadrant">#FFB69DF8</color>
+    <color name="fourth_Quadrant">#FFF6EDFF</color>
+</resources>
