@@ -12,4 +12,8 @@ Android Development Projects
                             d -> SoftCoded string 
                             e -> padding property of modifier
 
-3 -> Compose_Article :- 
+3 -> Compose_Article :- Here, I learned about the 
+                            a -> arrangement and alignment property in the Column() Composables
+                            b -> all types of padding property of modifier 
+                            c -> how to write text below the images
+                            
