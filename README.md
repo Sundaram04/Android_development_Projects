@@ -11,23 +11,26 @@ Android Development Projects
                         g -> An Image composable is a UI element that displays images in your app.
                         h -> An Image composable should have a content description to make your app more accessible.
 
-2 -> Task_Manager :- Here, I learned about the 
+2 -> Compose_article :- Here, I learned about the
 
-                            a -> arrangement and alignment property in the Column() Composables
-                            
-                            b -> fontWeight in the Text() Composables
-                            
-                            c -> contentDescription in the Image() Composables
-                            
-                            d -> SoftCoded string 
-                            
-                            e -> padding property of modifier
+                            a -> TextAlign.Justify Property
+                            b -> All types of padding 
+                            c -> How to write text below the images 
 
-3 -> Compose_Article :- Here, I learned about the 
+3 -> Task_Manager :- Here, I learned about the 
                             
-                            a -> arrangement and alignment property in the Column() Composables
-                            
-                            b -> all types of padding property of modifier 
-                            
-                            c -> how to write text below the images
-                            
+                            a -> UI specification
+                            b -> Center align all of the content vertically and horizontally on the screen.
+
+4 -> Compose_Quadrant :- In this app, I learned about some more ui specifications
+                            a -> Divide the entire screen into four equal parts, each of which contains a Compose card and displays information about a Composable function
+                            b -> Center align all of the content vertically and horizontally in each quadrant.
+                            c -> Weight modifier function , FontWeight.Bold property
+
+5 -> Dice_Roller :- On developing this app, I learned how to 
+                            a -> Create layouts with Compositions.
+                            b -> Create a button with the Button composable.
+                            c -> Import drawable resources.
+                            d -> Display an image with the Image composable.
+                            e -> Use the remember composable to store objects in a Composition to memory.
+                            f -> Refresh the UI with the mutableStateOf()function to make an observable.
